@@ -1,24 +1,24 @@
 {
-"Title": "❌ قطع اتصال شما ❌",
-"Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت اتصال شما قطع میشود 🙏🏻❤️",
-"Link": "tg://join?invite=TXVnDGfm3QVhOWJk",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FF3D00",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "center",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "28737360001",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
-"Closure": "true",
-"Show": "on"
+  "Title": "کانفیگ V2Ray و هیدیفای نامحدود",
+  "Description": "با کمتر از پول یه قهوه  = 48 ت خودتو از فیلترشکن بی نیاز کن ، اول رایگان تستش کن ، بعد بخر ، دسترسی همزمان به کشورهای 🇺🇸🇬🇧🇳🇱🇹🇷🇩🇪 با حجم نامحدود 😍👇🏻 (با ضمانت تیم ما)",
+  "Link": "https://t.me/GreenNetwoorkBot?start=free_5augpop_sh",
+  "ColorWave": "#7C4DFF",
+  "Color": "#ffa500",
+  "ColorWaveTwo": "#B388FF",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#00a043",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#e90000",
+  "Cancellable": "false",
+  "MessageID": "360200416",
+  "ShowTime": "3",
+  "Button": " دریافت تست رایگان ",
+  "ButtonCancell": "",
+  "Closure": "true",
+  "Show": "on"
 }
